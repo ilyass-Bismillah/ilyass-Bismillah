@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4b4b4b&height=180&section=header&text=Aymen%20Jdily&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=54&descSize=16" alt="ilyass Bismillah — Web Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:27272a,100:f59e0b&height=180&section=header&text=Ilyass%20Bismillah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Frontend%20%26%20Web%20Developer&descAlignY=54&descSize=16" alt="Ilyass Bismillah — Frontend & Web Developer" width="100%" />
 
 <a href="">
   <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -11,7 +11,7 @@
 <a href="mailto:ilyassbis@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<img src="https://img.shields.io/badge/Casablanca-Morocco-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Casablanca, Morocco" />
+<img src="https://img.shields.io/badge/Agadir-Morocco-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Agadir, Morocco" />
 
 <br/>
 
