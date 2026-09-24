@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:27272a,100:f59e0b&height=180&section=header&text=Ilyass%20Bismillah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Frontend%20%26%20Web%20Developer&descAlignY=54&descSize=16" alt="Ilyass Bismillah — Frontend & Web Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:27272a,100:f59e0b&height=180&section=header&text=Ilyass%20Bismillah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Frontend%20and%20Web%20Developer&descAlignY=54&descSize=16" alt="Ilyass Bismillah — Frontend and Web Developer" width="100%" />
 
 <a href="https://digest-media.ma/">
   <img src="https://img.shields.io/badge/Portfolio-digest--media.ma-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Portfolio" />
@@ -129,18 +129,18 @@ Industrial fence storefront with dynamic quote calculators based on height optio
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=Bismillah-Ilyass&show_icons=true&hide_border=true&theme=tokyonight&icon_color=F59E0B&title_color=F59E0B&text_color=E4E4E7&bg_color=09090b](https://github-readme-stats.vercel.app/api?username=Bismillah-Ilyass&show_icons=true&hide_border=true&theme=tokyonight&icon_color=F59E0B&title_color=F59E0B&text_color=E4E4E7&bg_color=09090b)" />
-  <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api?username=Bismillah-Ilyass&show_icons=true&hide_border=true&theme=default&icon_color=D97706&title_color=D97706&text_color=27272a&bg_color=ffffff](https://github-readme-stats.vercel.app/api?username=Bismillah-Ilyass&show_icons=true&hide_border=true&theme=default&icon_color=D97706&title_color=D97706&text_color=27272a&bg_color=ffffff)" />
-  <img src="[https://github-readme-stats.vercel.app/api?username=Bismillah-Ilyass&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Bismillah-Ilyass&show_icons=true&hide_border=true)" alt="GitHub stats" height="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ilyass-Bismillah&show_icons=true&hide_border=true&theme=tokyonight&icon_color=F59E0B&title_color=F59E0B&text_color=E4E4E7&bg_color=09090b" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ilyass-Bismillah&show_icons=true&hide_border=true&theme=default&icon_color=D97706&title_color=D97706&text_color=27272a&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyass-Bismillah&show_icons=true&hide_border=true" alt="GitHub stats" height="160" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=tokyonight&title_color=F59E0B&text_color=E4E4E7&bg_color=09090b](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=tokyonight&title_color=F59E0B&text_color=E4E4E7&bg_color=09090b)" />
-  <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff)" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff)" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff)" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff)" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff)" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismillah-Ilyass&layout=compact&hide_border=true)" alt="Top languages" height="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=tokyonight&title_color=F59E0B&text_color=E4E4E7&bg_color=09090b" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=default&title_color=D97706&text_color=27272a&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true" alt="Top languages" height="160" />
 </picture>
 
 </div>
@@ -156,17 +156,17 @@ I'm open to **full-time, contract and fractional** work.
 <br/>
 
 <a href="mailto:ilyassbis@gmail.com">
-  <img src="[https://img.shields.io/badge/ilyassbis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/ilyassbis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+  <img src="https://img.shields.io/badge/ilyassbis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="[https://www.linkedin.com/in/ilyass-bismillah/](https://www.linkedin.com/in/ilyass-bismillah/)">
-  <img src="[https://img.shields.io/badge/in%2Filyass--bismillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/in%2Filyass--bismillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/ilyass-bismillah/">
+  <img src="https://img.shields.io/badge/in%2Filyass--bismillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="[https://digest-media.ma/](https://digest-media.ma/)">
-  <img src="[https://img.shields.io/badge/Portfolio-digest--media.ma-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=F59E0B](https://img.shields.io/badge/Portfolio-digest--media.ma-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=F59E0B)" alt="Portfolio" />
+<a href="https://digest-media.ma/">
+  <img src="https://img.shields.io/badge/Portfolio-digest--media.ma-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:4b4b4b,100:1a1a1a&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:4b4b4b,100:1a1a1a&height=120&section=footer)" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b4b4b,100:1a1a1a&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>
