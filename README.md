@@ -1,8 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:27272a,100:f59e0b&height=180&section=header&text=Ilyass%20Bismillah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Frontend%20%26%20Web%20Developer&descAlignY=54&descSize=16" alt="Ilyass Bismillah — Frontend & Web Developer" width="100%" />
-
-<a href="">
+<a href="https://tylias.com/">
   <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/ilyass-Bismillah/">
@@ -15,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6E7681&center=true&vCenter=true&width=620&lines=Next.js+%C2%B7+NestJS+%C2%B7+TypeScript+%C2%B7+Python;Data+pipelines%2C+dashboards+and+platforms;Shipped+end-to-end+for+10%2B+clients;Open+to+full-time%2C+contract+and+fractional" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6E7681&center=true&vCenter=true&width=620&lines=Next.js+%C2%B7+React.js+%C2%B7+TypeScript+%C2%B7+JavaScript;Data+pipelines%2C+dashboards+and+platforms;Shipped+end-to-end+for+10%2B+clients;Open+to+full-time%2C+contract+and+fractional" alt="What I do" />
 
 </div>
 
@@ -149,14 +148,14 @@ Social media intelligence for creators, marketers and agencies — surfacing eme
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aymenjdily&show_icons=true&hide_border=true&theme=github_dark&icon_color=6E7681&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aymenjdily&show_icons=true&hide_border=true&theme=graywhite&icon_color=1a1a1a&title_color=1a1a1a&text_color=444444&bg_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aymenjdily&show_icons=true&hide_border=true" alt="GitHub stats" height="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ilyass-Bismillah&show_icons=true&hide_border=true&theme=github_dark&icon_color=6E7681&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ilyass-Bismillah&show_icons=true&hide_border=true&theme=graywhite&icon_color=1a1a1a&title_color=1a1a1a&text_color=444444&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyass-Bismillah&show_icons=true&hide_border=true" alt="GitHub stats" height="160" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenjdily&layout=compact&hide_border=true&theme=github_dark&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenjdily&layout=compact&hide_border=true&theme=graywhite&title_color=1a1a1a&text_color=444444&bg_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenjdily&layout=compact&hide_border=true" alt="Top languages" height="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=github_dark&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true&theme=graywhite&title_color=1a1a1a&text_color=444444&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-Bismillah&layout=compact&hide_border=true" alt="Top languages" height="160" />
 </picture>
 
 </div>
@@ -169,17 +168,17 @@ Social media intelligence for creators, marketers and agencies — surfacing eme
 
 I'm open to **full-time, contract and fractional** work.
 
-<a href="mailto:aymenjdily@gmail.com">
+<a href="mailto:ilyassbis@gmail.com">
   <img src="https://img.shields.io/badge/ilyassbis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/aymenjdily/">
+<a href="https://www.linkedin.com/in/ilyass-bismillah/">
   <img src="https://img.shields.io/badge/in%2Filyass-bismillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.aymenjdily.com">
+<a>
   <img src="https://img.shields.io/badge/-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b4b4b,100:1a1a1a&height=120&section=footer" alt="" width="100%" />
 
