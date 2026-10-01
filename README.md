@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,60:27272a,100:f59e0b&height=180&section=header&text=Ilyass%20Bismillah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Frontend%20and%20Web%20Developer&descAlignY=54&descSize=16" alt="Ilyass Bismillah — Frontend and Web Developer" width="100%" />
 
-<a href="https://digest-media.ma/">
-  <img src="https://img.shields.io/badge/Portfolio-digest--media.ma-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Portfolio" />
+<a href="https://ilyassbismillah.com/">
+  <img src="https://img.shields.io/badge/Portfolio-ilyass-bismillah.com-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/ilyass-bismillah/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -161,7 +161,7 @@ I'm open to **full-time, contract and fractional** work.
 <a href="https://www.linkedin.com/in/ilyass-bismillah/">
   <img src="https://img.shields.io/badge/in%2Filyass--bismillah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://digest-media.ma/">
+<a href="https://ilyassbismillah.com/">
   <img src="https://img.shields.io/badge/Portfolio-digest--media.ma-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=F59E0B" alt="Portfolio" />
 </a>
 
